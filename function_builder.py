@@ -1,4 +1,4 @@
-# Function Builder using lambda
+# Function Builder using lambda and Python closure
 def funcBuilder(x):
     return lambda num: num + x
 
