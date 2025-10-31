@@ -1,4 +1,5 @@
 #bank_accounts.py
+#simple program storing all bank accounts
 from traitlets import Int
 
 
